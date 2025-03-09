@@ -1,6 +1,8 @@
-## A simple script to install yay in your system!
+## A simple script to install yay in your Arch Linux!
 
-Installation steps:
+Yay (Yet Another Yaourt) is an AUR helper for Arch Linux that simplifies installing and managing AUR packages while also handling Pacman packages.  
+
+Installation steps:  
 Download Zip file from the Code option and extract it
 or
 ```Bash
