@@ -1,11 +1,10 @@
 #!/bin/bash
 
-#This script installs yay in your system
-
+echo "This script installs yay in your system"
 echo "Updating system..."
 sudo pacman -Syy
 
-echo "Checking for Git and Base Devel..."
+echo "Checking if Git and Base Devel is already installed..."
 git --version &>/dev/null
 if [ $? -eq 0 ]; then
 	echo "Git is installed..."
