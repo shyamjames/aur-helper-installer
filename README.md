@@ -1,6 +1,6 @@
-## A simple script to install yay in your Arch Linux!
+## A simple script to install An Aur Helper in your Arch Linux!
 
-Yay (Yet Another Yaourt) is an AUR helper for Arch Linux that simplifies installing and managing AUR(Arch User Repository) packages while also handling Pacman packages.  
+Yay (Yet Another Yaourt) and Paru are AUR helpers for Arch Linux that simplify installing and managing AUR packages while also handling Pacman packages. Paru, designed as a Yay alternative, focuses on minimalism, speed, and better security with a cleaner codebase.
 
 Installation steps:  
 Download Zip file from the Code option and extract it
@@ -16,10 +16,10 @@ cd yay-installer
 
 give execution permission to the script:
 ```
-chmod +x yay-installer.sh
+chmod +x aur-helper-installer.sh
 ```
 
 run the script:
 ```
-./yay.installer.sh
+./aur-helper-installer.sh
 ```
