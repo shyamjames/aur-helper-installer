@@ -6,7 +6,7 @@ Yay (Yet Another Yaourt) and Paru are AUR helpers for Arch Linux that simplify i
 
 ### 📜 Installation Steps:
 
-**Option 1: One-Click Installation:**
+**Option 1: One-Click Installation (Recommended)**
 
 To install either Yay or Paru with a single command, open your terminal and execute:  
 Note - You need package `curl` for this.  
@@ -15,7 +15,7 @@ Note - You need package `curl` for this.
 sh <(curl -L https://raw.githubusercontent.com/shyamjames/aur-helper-installer/refs/heads/main/aur-helper-installer.sh)
 ```
 
-**Option 2: Using Git (Recommended)**
+**Option 2: Using Git**
 
 1.  🔗 Clone the repository:
     ```bash
